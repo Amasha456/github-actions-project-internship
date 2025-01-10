@@ -1,1 +1,2 @@
 New cloud feature
+Bugfix applied to cloud feature
